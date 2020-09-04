@@ -7,6 +7,8 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
+        //////////////Task1/////////////////
+/*
         Scanner scanner= new Scanner(System.in);
 
      //System.out.print("Hello world");
@@ -32,9 +34,13 @@ public class Main {
          System.out.println(v);
      }
 
-     System.out.println();
+     System.out.println();*/
+
+     ////////////////Task2/////////////////
 
 
+    ShapeTest test = new ShapeTest();
+    test.test();
 
 
 
